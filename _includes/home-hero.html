@@ -28,11 +28,14 @@
             {% if site.data.global.linkedin != '' %}
               <a href="https://linkedin.com/in/{{ site.data.global.linkedin }}"><button class="btn btn-default btn-md"><i class="fa fa-linkedin fa-md"></i>LinkedIn</button></a>
             {% endif %}
+            {% if site.data.global.blog != '' %}
+              <a href="https://{{ site.data.global.blog }}"><button class="btn btn-default btn-md"><i class="fa fa-book fa-md"></i>Blog</button></a>
+            {% endif %}
             {% if site.data.global.instagram != '' %}
               <a href="https://instagram.com/in/{{ site.data.global.instagram }}"><button class="btn btn-default btn-md"><i class="fa fa-instagram fa-md"></i>Instagram</button></a>
             {% endif %}
             {% if site.data.global.snapchat != '' %}
-              <a href="https://snapchat.com/add/{{ site.data.global.snapchat }}"><button class="btn btn-default btn-md"><i class="fa fa-snapchat fa-md"></i>Email</button></a>
+              <a href="https://snapchat.com/add/{{ site.data.global.snapchat }}"><button class="btn btn-default btn-md"><i class="fa fa-snapchat fa-md"></i>Snapchat</button></a>
             {% endif %}
 
           </div>
@@ -40,10 +43,6 @@
         </div>
 
       </div>
-
-      <a class="section-jump text-center" href="#portfolio">
-        <i class="fa fa-angle-down fa-3x"></i>
-      </a>
 
     </div>
 
