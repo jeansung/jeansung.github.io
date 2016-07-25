@@ -2,7 +2,7 @@
 title: "Hi there. I'm Jean Sung."
 description: "Beep boop 1010101."
 url: 'http://jeansung.github.io/' # the base hostname & protocol for your site
-nav: "true"
+nav: "false"
 footer_text: '© 2016 Jean Sung'
 github: 'jeansung'
 linkedin: 'jeansung'
