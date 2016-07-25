@@ -1,5 +1,9 @@
 ### Jean's technical front page
 
+
+### Update
+Change files, update through git normally 
+
 ### Credit
 
 * [Theme](https://github.com/jamigibbs/phantom)
