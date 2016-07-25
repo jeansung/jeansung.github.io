@@ -1,14 +1,14 @@
 # Site Settings
-title: "Hi. M"
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Hi there. I'm Jean Sung."
+description: "Beep boop 1010101."
 url: 'http://jeansung.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jeansung94'
+footer_text: '© 2016 Jean Sung'
 github: 'jeansung'
 linkedin: 'jeansung'
-blog: 'google.com'
-medium: 'blog.jamigibbs.com'
+instagram: 'jeansung94'
+email: 'jeansung94@gmail.com'
+blog: 'jeansung.github.io/blog/'
 
 # Admin Settings
 admin_name: 'Jean Sung'
