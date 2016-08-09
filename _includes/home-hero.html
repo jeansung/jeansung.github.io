@@ -16,7 +16,6 @@
           <p class="text-center">{{site.data.global.description}}</p>
           {% endif %}
 
-
           <div class="hero-buttons">
             <a href="https://github.com/jeansung/ResumeCollection/raw/master/master_resume/JEANSUNG_RESUME.pdf"><button class="btn btn-default btn-md"><i class="fa fa-file fa-md"></i>Resum&eacute;</button></a>
             {% if site.data.global.email != '' %}
@@ -25,11 +24,11 @@
             {% if site.data.global.github != '' %}
               <a href="https://github.com/{{ site.data.global.github }}"><button class="btn btn-default btn-md"><i class="fa fa-github fa-ld"></i>Github</button></a>
             {% endif %}
+            {% if site.data.global.blog != '' %}
+              <a href="http://{{ site.data.global.blog }}"><button class="btn btn-default btn-md"><i class="fa fa-book fa-md"></i>Musings</button></a>
+            {% endif %}
             {% if site.data.global.linkedin != '' %}
               <a href="https://linkedin.com/in/{{ site.data.global.linkedin }}"><button class="btn btn-default btn-md"><i class="fa fa-linkedin fa-md"></i>LinkedIn</button></a>
-            {% endif %}
-            {% if site.data.global.blog != '' %}
-              <a href="http://{{ site.data.global.blog }}"><button class="btn btn-default btn-md"><i class="fa fa-book fa-md"></i>Blog</button></a>
             {% endif %}
             {% if site.data.global.facebook != '' %}
               <a href="http://facebook.com{{ site.data.global.facebook }}"><button class="btn btn-default btn-md"><i class="fa fa-facebook fa-md"></i>Facebook</button></a>
