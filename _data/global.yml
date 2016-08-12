@@ -6,12 +6,8 @@ nav: "false"
 footer_text: '© 2016 Jean Sung'
 github: 'jeansung'
 linkedin: 'jeansung'
-email: 'jeansung94@gmail.com'
 blog: 'jeansung.github.io/blog/'
-twitter: 'jeansung94'
-instagram: 'jeansung94'
-facebook: 'jeansung1994'
-
+resume: 'https://github.com/jeansung/ResumeCollection/raw/master/master_resume/JEANSUNG_RESUME.pdf'
 # Admin Settings
 admin_name: 'Jean Sung'
 admin_email: 'jeansung94@gmail.com'
